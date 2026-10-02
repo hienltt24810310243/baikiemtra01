@@ -1,31 +1,17 @@
-# Visual Studio
+# Thư mục tạm của Visual Studio
 .vs/
-**/.vs/
 
-# Build output
+# Kết quả build
 bin/
 obj/
-**/bin/
-**/obj/
 
-# User-specific files
+# Cài đặt riêng của từng người
 *.user
 *.suo
-*.userosscache
-*.sln.docstates
 
-# Logs and temporary files
+# Kết quả test, log
+TestResults/
 *.log
-*.tmp
-*.temp
 
-# NuGet
-packages/
-*.nupkg
-
-# JetBrains
-.idea/
-
-# OS
-.DS_Store
-Thumbs.db
+# Thư mục của VS Code (nếu dùng)
+.vscode/
