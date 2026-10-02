@@ -1,0 +1,14 @@
+D:\kiemtra01\Bai02\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.exe
+D:\kiemtra01\Bai02\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.deps.json
+D:\kiemtra01\Bai02\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.runtimeconfig.json
+D:\kiemtra01\Bai02\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.dll
+D:\kiemtra01\Bai02\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.pdb
+D:\kiemtra01\Bai02\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\kiemtra01\Bai02\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\kiemtra01\Bai02\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfo.cs
+D:\kiemtra01\Bai02\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\kiemtra01\Bai02\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.dll
+D:\kiemtra01\Bai02\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\refint\ConsoleApp1.dll
+D:\kiemtra01\Bai02\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.pdb
+D:\kiemtra01\Bai02\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.genruntimeconfig.cache
+D:\kiemtra01\Bai02\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ref\ConsoleApp1.dll
